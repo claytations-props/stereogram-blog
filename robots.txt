@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://claytations-props.github.io/stereogram-blog/sitemap.xml
