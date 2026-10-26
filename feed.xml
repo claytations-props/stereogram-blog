@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Research Notes — The Stereograph Archive</title>
+    <link>https://blog.vrparlor.com/</link>
+    <description>Real places, real photographs, and the people who worked them, with sources listed and every card linked back to the archive.</description>
+    <item>
+      <title>Mauch Chunk, the town that sold the slope three times</title>
+      <link>https://blog.vrparlor.com/mauch-chunk.html</link>
+      <description>A town in a gorge learned to sell the slope it was stuck on: first as a coal road, then as a ride, then as a name.</description>
+      <pubDate>Sat, 25 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isles of Shoals, where a garden outlived the hotels</title>
+      <link>https://blog.vrparlor.com/isles-of-shoals.html</link>
+      <description>The Shoals were kept alive twice by selling a stay on rocks that could not feed themselves: first by a hotel and a garden, then by conferences and a marine laboratory.</description>
+      <pubDate>Sat, 25 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Delaware Water Gap, where the river kept the valley</title>
+      <link>https://blog.vrparlor.com/delaware-water-gap.html</link>
+      <description>Hotel keepers turned a river notch into a season, and a government tried to turn the valley into a lake. The hotels burned, the lake was never built, and the river is still there.</description>
+      <pubDate>Sat, 25 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
